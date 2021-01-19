@@ -3,10 +3,10 @@
 ##  Im Harsh
 <!--
 **harsh9988/harsh9988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+🔭 I’m currently working on ... PYTHON based projects
 🌱 I’m currently learning >> PYTHON
 - 👯 I’m looking to collaborate on PYTHON based projects
 - 🤔 I’m looking for help in algorithm's
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
