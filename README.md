@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-🌱 I’m currently learning --> PYTHON
+🌱 I’m currently learning >> PYTHON
 - 👯 I’m looking to collaborate on PYTHON based projects
 - 🤔 I’m looking for help in algorithm's
 - 💬 Ask me about ...
